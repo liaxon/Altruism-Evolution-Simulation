@@ -1,0 +1,7 @@
+# Python caches and other files
+__pycache__
+*.egg-info
+.mypy_cache
+.pytest_cache
+.coverage
+.tox
